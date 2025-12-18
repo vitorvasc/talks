@@ -36,9 +36,10 @@ building.
 
 ## 🎙️ Talks
 
-| Date       | Title                                           | Event / Location              | Resources                                                                                            |
-| ---------- | ----------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 2025-11-04 | Observability for Critical Applications at MELI | ClickHouse Meetup @ São Paulo | [Slides (PDF), Recording (YouTube)](2025/2025-11-04-observability-for-critical-applications-at-MELI) |
+| Date       | Title                                                                  | Event / Location              | Resources                                                                                            |
+| ---------- | ---------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 2025-11-04 | Observability for Critical Applications at MELI                        | ClickHouse Meetup @ São Paulo | [Slides (PDF), Recording (YouTube)](2025/2025-11-04-observability-for-critical-applications-at-MELI) |
+| 2025-11-06 | OSPO & Open Source in LATAM: Community and OpenTelemetry Contributions | Tech Rooms @ Mercado Libre    | [Slides (PDF), Recording (YouTube)](2025/2025-11-06-ospo-and-open-source-in-latam)                   |
 
 ---
 
