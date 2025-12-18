@@ -32,10 +32,11 @@ talks I've given at conferences, meetups, community events, and other venues.
 The goal is to make these materials easy to find, reference, and reuse. Feel
 free to explore, share, or reach out to discuss it further!
 
-| Date       | Title                                                                  | Event / Location              | Resources                                                                                            |
-| ---------- | ---------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 2025-11-04 | Observability for Critical Applications at MELI                        | ClickHouse Meetup @ São Paulo | [Slides (PDF), Recording (YouTube)](2025/2025-11-04-observability-for-critical-applications-at-MELI) |
-| 2025-11-06 | OSPO & Open Source in LATAM: Community and OpenTelemetry Contributions | Tech Rooms @ Mercado Libre    | [Slides (PDF), Recording (YouTube)](2025/2025-11-06-ospo-and-open-source-in-latam)                   |
+| Date       | Title                                                                   | Event / Location              | Resources                                                                                               |
+| ---------- | ----------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 2025-11-04 | Observability for Critical Applications at MELI                         | ClickHouse Meetup @ São Paulo | [Slides (PDF), Recording (YouTube)](2025/2025-11-04-observability-for-critical-applications-at-MELI)    |
+| 2025-11-06 | OSPO & Open Source in LATAM: Community and OpenTelemetry Contributions  | Tech Rooms @ Mercado Libre    | [Slides (PDF), Recording (YouTube)](2025/2025-11-06-ospo-and-open-source-in-latam)                      |
+| 2025-12-03 | InnerSource & Open Source: Value and Impact as Pillars of Collaboration | Tech Rooms @ Mercado Libre    | [Slides (PDF)](2025/2025-12-03-innersource-and-opensource-value-and-impact-as-pillars-of-collaboration) |
 
 ---
 
