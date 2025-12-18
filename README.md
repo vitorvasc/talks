@@ -2,16 +2,6 @@
 
 Hi there! 👋🏼
 
-This repository collects recordings, slides, demos, and related resources from
-talks I've given at conferences, meetups, community events, and other venues.
-
-The goal is to make these materials easy to find, reference, and reuse. Feel
-free to explore, share, or reach out to discuss it further!
-
----
-
-## 👤 About me
-
 I'm Vitor Vasconcellos, a Brazilian software engineer who loves building
 reliable, observable systems and making complex things click.
 
@@ -35,6 +25,12 @@ building.
 ---
 
 ## 🎙️ Talks
+
+This repository collects recordings, slides, demos, and related resources from
+talks I've given at conferences, meetups, community events, and other venues.
+
+The goal is to make these materials easy to find, reference, and reuse. Feel
+free to explore, share, or reach out to discuss it further!
 
 | Date       | Title                                                                  | Event / Location              | Resources                                                                                            |
 | ---------- | ---------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |

@@ -9,7 +9,7 @@
 | Video           | [Recording (YouTube)](https://youtu.be/p2j3nKU62VI)                                                                                                                                                                                                 |
 | Language        | Portuguese 🇧🇷                                                                                                                                                                                                                                       |
 
-## Abstract
+## 📌 Abstract
 
 Open source adoption and contribution are growing worldwide, but participation
 in [CNCF](https://www.cncf.io/) projects from Latin America (LATAM) remains

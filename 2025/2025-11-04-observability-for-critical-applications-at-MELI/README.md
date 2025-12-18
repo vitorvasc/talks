@@ -9,7 +9,7 @@
 | Video           | [Recording (YouTube)](https://youtu.be/YGCAcTjolA0)                                                   |
 | Language        | Portuguese 🇧🇷                                                                                         |
 
-## Abstract
+## 📌 Abstract
 
 This talk shows how Mercado Libre dealt with the challenge of debugging failures
 in large-scale, business-critical systems. With tens of thousands of
