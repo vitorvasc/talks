@@ -44,11 +44,3 @@ free to explore, share, or reach out to discuss it further!
 
 - LinkedIn: [Vitor Vasconcellos](https://www.linkedin.com/in/vvasconcellos/)
 - BlueSky: [@vasconcellos.dev](https://bsky.app/profile/vasconcellos.dev)
-
----
-
-## License
-
-All content in this repository is provided for public reference and learning.  
-If you're using material from this repo, please attribute the original talk and
-author.
