@@ -6,7 +6,7 @@
 | Date            | December 3, 2025                                                                                                                                                          |
 | Speakers        | [Fernando Correa](https://www.linkedin.com/in/fernando-eugenio-correa/) (Mercado Libre), [Vitor Vasconcellos](https://www.linkedin.com/in/vvasconcellos/) (Mercado Libre) |
 | Slides          | [Slides (PDF)](slides.pdf)                                                                                                                                                |
-| Video           | Not available                                                                                                                                                             |
+| Video           | [Recording (YouTube)](https://youtu.be/85oiMBQySbA)                                                                                                                       |
 | Language        | Portuguese 🇧🇷                                                                                                                                                             |
 
 ## 📌 Abstract
